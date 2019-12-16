@@ -1,5 +1,3 @@
-Source for the Angular Cognito Test
+Codigo para login con cognito 
 
-Youtube for this showing how it runs.
-
-https://youtu.be/ROwjNYlxMAs
+Tutorial en proceso 
